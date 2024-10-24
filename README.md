@@ -1,7 +1,7 @@
 # Pointillism Canvas
 An interactive dot-based drawing application made with Arduino IDE and Processing
 
-Insert GIF demo here
+![Sequence 01_1](https://github.com/user-attachments/assets/0984b817-969b-4bdc-88da-a15dbd77b66e)
 
 ### Hardware:
 - [LilyGo T-Display board](https://www.lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board?srsltid=AfmBOor7mrm_vmfWB6wu8yITau-LUsnGRL8LQiT9-7cyLsRfz-yet-uV) (with headers)
