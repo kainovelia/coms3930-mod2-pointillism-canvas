@@ -4,9 +4,10 @@ An interactive dot-based drawing application made with Arduino IDE and Processin
 Insert GIF demo here
 
 ### Hardware:
-- LilyGo T-Display board (with headers)
+- [LilyGo T-Display board](https://www.lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board?srsltid=AfmBOor7mrm_vmfWB6wu8yITau-LUsnGRL8LQiT9-7cyLsRfz-yet-uV) (with headers)
 - USB-C cable
 - 3 Pushbuttons
+- 1 [KY-023 Dual Axis Joystick Module](https://arduinomodules.info/ky-023-joystick-dual-axis-module/)
 - 1 RBG LED light
 - 1 Precision Potentiometer
 - Breadboard
@@ -14,9 +15,9 @@ Insert GIF demo here
 - As many other types of wires, as needed
 
 ### Software:
-- Arduino IDE
-- Processing (Sketchbook app)
-- LilyGo T-Display Driver
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [Processing](https://processing.org/download) (Sketchbook app) 
+- [LilyGo T-Display USB Driver](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)
  
 ## Setup
 - Download the correct driver for the LilyGo T-Display
@@ -26,7 +27,6 @@ Insert GIF demo here
 - Wire the components as shown in the diagram
  
 ## Arduino Program
-- Install the espressif 32 library and board by Bodmer
 - Open the file 'mod2-pointillism-canvas.ino'
 - Select port connected to wired board
 - Click 'Upload'
