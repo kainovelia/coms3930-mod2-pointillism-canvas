@@ -1,6 +1,8 @@
 # Pointillism Canvas
 An interactive dot-based drawing application made with Arduino IDE and Processing
 
+Prototype demo video: [https://drive.google.com/file/d/1kcc5jUUKsq61Xoibje5utA7ILwHvNSOK/view?usp=drive_link](https://drive.google.com/file/d/1kcc5jUUKsq61Xoibje5utA7ILwHvNSOK/view?usp=drive_link)
+
 ![Sequence 01_1](https://github.com/user-attachments/assets/0984b817-969b-4bdc-88da-a15dbd77b66e)
 
 ### Hardware:
